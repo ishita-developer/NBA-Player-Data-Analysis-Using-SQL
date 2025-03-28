@@ -14,5 +14,10 @@ Fantasy basketball, sports analytics, player valuation..
 
 ## Future Enhancements  
 - Expand dataset with additional player metrics.  
-- Visualize data using Power BI or Python (Matplotlib, Pandas).  
+- Visualize data using Power BI or Python (Matplotlib, Pandas).
+
+  # My Khan Academy Project  
+
+Check out my project on Khan Academy:  
+[Click Here](https://www.khanacademy.org/computer-programming/sql_project_on_big_data/4791737763610624)
 
