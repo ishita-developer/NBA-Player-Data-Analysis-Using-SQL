@@ -1,2 +1,21 @@
-# NBA-Player-Data-Analysis-Using-SQL
-**NBA Player Data Analysis | SQL Project**    Executed SQL queries on an NBA dataset to classify players by career stage using `CASE`. Applied `AVG`, `MAX`, and `MIN` for performance metrics. Filtered data with `WHERE`, `AND`, and `OR`. Utilized `GROUP BY` and `HAVING` to analyze trends by position. 
+ 
+# NBA Player Data Analysis | SQL Project
+
+This project analyzes an NBA player dataset using **SQL queries** to extract key insights into player performance and career trends.
+
+## Key Features  
+- **Player Classification (`CASE`)** – Categorized players as Early Entry, Peak Time, or Late Entry.  
+- **Statistical Insights (`AVG, MAX, MIN`)** – Calculated average height, max points, and min rebounds.  
+- **Advanced Filtering (`WHERE`, `AND`, `OR`)** – Identified players based on performance metrics.  
+- **Grouping & Aggregation (`GROUP BY`, `HAVING`)** – Analyzed trends across player positions.  
+
+## Applications  
+Fantasy basketball, sports analytics, player valuation.
+
+## How to Use  
+Run SQL queries on the dataset to gain insights into player statistics and trends.
+
+## Future Enhancements  
+- Expand dataset with additional player metrics.  
+- Visualize data using Power BI or Python (Matplotlib, Pandas).  
+
