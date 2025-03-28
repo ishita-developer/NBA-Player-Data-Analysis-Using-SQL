@@ -10,10 +10,7 @@ This project analyzes an NBA player dataset using **SQL queries** to extract key
 - **Grouping & Aggregation (`GROUP BY`, `HAVING`)** – Analyzed trends across player positions.  
 
 ## Applications  
-Fantasy basketball, sports analytics, player valuation.
-
-## How to Use  
-Run SQL queries on the dataset to gain insights into player statistics and trends.
+Fantasy basketball, sports analytics, player valuation..
 
 ## Future Enhancements  
 - Expand dataset with additional player metrics.  
